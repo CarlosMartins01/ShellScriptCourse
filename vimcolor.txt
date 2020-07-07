@@ -1,0 +1,12 @@
+
+To change color schema in the Vim:
+Type :colorschema + space + tab.
+Then select which scheme do you prefer.
+
+To initialize with the specific color scheme create a .vimrc file and add the "colorscheme <schemename> and save the file in your ~/ profile path.
+
+My default is:
+:colorscheme desert
+
+
+

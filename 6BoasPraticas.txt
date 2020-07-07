@@ -1,0 +1,23 @@
+	Boas Praticas para Script.
+
+Como manter um código limpo, estruturado. Isso para que outras pessoas possam trabalhar ou entender o que foi feito.
+Abaixo segue um exemplo de um Script bem documentado, bem escrito.
+
+
+Cabeçalho
+  - Nome. Do script.
+  - Mantenedor. Nome do criador do script e das pessoas que trabalham com ele, contatos, telefones, site e e-mails.
+  - Exemplo. Exemplos de utilização do script e para que ele serve.
+
+  - Versionamento. Pequenas mudançãs, se altera a subversão 1.0 1.1 1.2, para grandes alteraçoes se altera a versão 1.0 2.0 3.0. Existem várias maneiras de versionar um código.
+  - Testado. Tudo que for testado você deixa documentado. Todas as vers
+
+ Estrutura.
+
+Comentários.
+
+Estruturação do código.
+
+
+
+ 
